@@ -1,0 +1,366 @@
+[
+  {
+    "id": 1,
+    "monday_date": "2023-01-02",
+    "collection": [
+      "tree", "recycling"
+    ]
+  },
+  {
+    "id": 2,
+    "monday_date": "2023-01-09",
+    "collection": [
+      "tree", "compost"
+    ]
+  },
+  {
+    "id": 3,
+    "monday_date": "2023-01-16",
+    "collection": [
+      "recycling"
+    ]
+  },
+  {
+    "id": 4,
+    "monday_date": "2023-01-23",
+    "collection": [
+      "trash", "compost"
+    ]
+  },
+  {
+    "id": 5,
+    "monday_date": "2023-01-30",
+    "collection": [
+      "recycling"
+    ]
+  },
+  {
+    "id": 6,
+    "monday_date": "2023-02-06",
+    "collection": [
+      "recycling"
+    ]
+  },
+  {
+    "id": 7,
+    "monday_date": "2023-02-13",
+    "collection": [
+     "recycling"
+    ]
+  },
+  {
+    "id": 8,
+    "monday_date": "2023-02-20",
+    "collection": [
+      "trash", "compost"
+    ]
+  },
+  {
+    "id": 9,
+    "monday_date": "2023-02-27",
+    "collection": [
+      "recycling"
+    ]
+  },
+  {
+    "id": 10,
+    "monday_date": "2023-03-06",
+    "collection": [
+      "compost"
+    ]
+  },
+  {
+    "id": 11,
+    "monday_date": "2023-03-13",
+    "collection": [
+      "recycling"
+    ]
+  },
+  {
+    "id": 12,
+    "monday_date": "2023-03-20",
+    "collection": [
+      "trash", "compost"
+    ]
+  },
+  {
+    "id": 13,
+    "monday_date": "2023-03-27",
+    "collection": [
+      "recycling"
+    ]
+  },
+  {
+    "id": 14,
+    "monday_date": "2023-04-03",
+    "collection": [
+      "compost"
+    ]
+  },
+  {
+    "id": 15,
+    "monday_date": "2023-04-10",
+    "collection": [
+      "recycling", "next"
+    ]
+  },
+  {
+    "id": 16,
+    "monday_date": "2023-04-17",
+    "collection": [
+      "trash", "compost"
+    ]
+  },
+  {
+    "id": 17,
+    "monday_date": "2023-04-24",
+    "collection": [
+      "recycling"
+    ]
+  },
+  {
+    "id": 18,
+    "monday_date": "2023-05-01",
+    "collection": [
+      "trash","compost"
+    ]
+  },
+  {
+    "id": 19,
+    "monday_date": "2023-05-08",
+    "collection": [
+      "recycling", "compost"
+    ]
+  },
+  {
+    "id": 20,
+    "monday_date": "2023-05-15",
+    "collection": [
+      "trash", "compost"
+    ]
+  },
+  {
+    "id": 21,
+    "monday_date": "2023-05-22",
+    "collection": [
+      "recycling", "compost", "hazard", "branches", "next"
+    ]
+  },
+  {
+    "id": 22,
+    "monday_date": "2023-05-29",
+    "collection": [
+      "trash", "compost"
+    ]
+  },
+  {
+    "id": 23,
+    "monday_date": "2023-06-05",
+    "collection": [
+      "recycling", "compost"
+    ]
+  },
+  {
+    "id": 24,
+    "monday_date": "2023-06-12",
+    "collection": [
+      "trash", "compost"
+    ]
+  },
+  {
+    "id": 25,
+    "monday_date": "2023-06-19",
+    "collection": [
+      "recycling", "compost"
+    ]
+  },
+  {
+    "id": 26,
+    "monday_date": "2023-06-26",
+    "collection": [
+      "trash", "compost", "next"
+    ]
+  },
+  {
+    "id": 27,
+    "monday_date": "2023-07-03",
+    "collection": [
+      "recycling", "compost", "next"
+    ]
+  },
+  {
+    "id": 28,
+    "monday_date": "2023-07-10",
+    "collection": [
+      "trash", "compost"
+    ]
+  },
+  {
+    "id": 29,
+    "monday_date": "2023-07-17",
+    "collection": [
+      "recycling", "compost"
+    ]
+  },
+  {
+    "id": 30,
+    "monday_date": "2023-07-24",
+    "collection": [
+      "trash", "compost"
+    ]
+  },
+  {
+    "id": 31,
+    "monday_date": "2023-07-31",
+    "collection": [
+      "recycling", "compost"
+    ]
+  },
+  {
+    "id": 32,
+    "monday_date": "2023-08-07",
+    "collection": [
+      "trash", "compost"
+    ]
+  },
+  {
+    "id": 33,
+    "monday_date": "2023-08-14",
+    "collection": [
+      "recycling", "compost"
+    ]
+  },
+  {
+    "id": 34,
+    "monday_date": "2023-08-21",
+    "collection": [
+      "trash", "compost"
+    ]
+  },
+  {
+    "id": 35,
+    "monday_date": "2023-08-28",
+    "collection": [
+      "recycling", "compost"
+    ]
+  },
+  {
+    "id": 36,
+    "monday_date": "2023-09-04",
+    "collection": [
+      "trash", "compost", "hazard", "next"
+    ]
+  },
+  {
+    "id": 37,
+    "monday_date": "2023-09-11",
+    "collection": [
+      "recycling", "compost"
+    ]
+  },
+  {
+    "id": 38,
+    "monday_date": "2023-09-18",
+    "collection": [
+      "trash", "compost"
+    ]
+  },
+  {
+    "id": 39,
+    "monday_date": "2023-09-25",
+    "collection": [
+      "recycling"
+    ]
+  },
+  {
+    "id": 40,
+    "monday_date": "2023-10-02",
+    "collection": [
+      "trash", "compost"
+    ]
+  },
+  {
+    "id": 41,
+    "monday_date": "2023-10-09",
+    "collection": [
+      "branches", "recycling", "next"
+    ]
+  },
+  {
+    "id": 42,
+    "monday_date": "2023-10-16",
+    "collection": [
+      "compost"
+    ]
+  },
+  {
+    "id": 43,
+    "monday_date": "2023-10-23",
+    "collection": [
+      "recycling"
+    ]
+  },
+  {
+    "id": 44,
+    "monday_date": "2023-10-30",
+    "collection": [
+      "trash", "compost"
+    ]
+  },
+  {
+    "id": 45,
+    "monday_date": "2023-11-06",
+    "collection": [
+      "recycling"
+    ]
+  },
+  {
+    "id": 46,
+    "monday_date": "2023-11-13",
+    "collection": [
+      "compost"
+    ]
+  },
+  {
+    "id": 47,
+    "monday_date": "2023-11-20",
+    "collection": [
+      "recycling"
+    ]
+  },
+  {
+    "id": 48,
+    "monday_date": "2023-11-27",
+    "collection": [
+      "trash", "compost"
+    ]
+  },
+  {
+    "id": 49,
+    "monday_date": "2023-12-04",
+    "collection": [
+      "recycling"
+    ]
+  },
+  {
+    "id": 50,
+    "monday_date": "2023-12-11",
+    "collection": [
+      "compost"
+    ]
+  },
+  {
+    "id": 51,
+    "monday_date": "2023-12-18",
+    "collection": [
+      "recycling"
+    ]
+  },
+  {
+    "id": 52,
+    "monday_date": "2023-12-25",
+    "collection": [
+      "trash", "compost", "next"
+    ]
+  }
+]
