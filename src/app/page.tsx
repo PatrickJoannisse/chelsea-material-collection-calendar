@@ -9,8 +9,6 @@ import Hazardous from './components/Hazardous';
 import Next from './components/Next';
 import Recycling from './components/Recyling';
 
-export const dynamic = 'force-dynamic';
-
 export default async function Home() {
 
   const today = new Date();
