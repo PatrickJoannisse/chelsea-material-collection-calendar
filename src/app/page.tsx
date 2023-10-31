@@ -9,6 +9,8 @@ import Hazardous from './components/Hazardous';
 import Next from './components/Next';
 import Recycling from './components/Recyling';
 
+export const dynamic = 'force-dynamic';
+
 export default async function Home() {
 
   const today = new Date();
@@ -58,6 +60,7 @@ export default async function Home() {
       </div>
       <header className='text-center space-y-4'>
         <h1 className='text-3xl font-extrabold'>What&apos;s this week?</h1>
+        <p>{today.toDateString()}</p>
       </header>
       <main className='text-center'>
         <div className='grid gap-8 w-full'>
