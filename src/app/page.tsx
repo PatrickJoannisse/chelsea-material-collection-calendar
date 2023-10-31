@@ -1,13 +1,13 @@
+import { promises as fs } from 'fs';
 import { Coffee, Github, HelpCircle } from 'lucide-react';
 import Link from 'next/link';
-import Recycling from './components/Recyling';
-import Hazardous from './components/Hazardous';
+import { ReactNode } from 'react';
 import Branches from './components/Branches';
 import Compost from './components/Compost';
 import Garbage from './components/Garbage';
-import { promises as fs } from 'fs';
-import { ReactNode } from 'react';
+import Hazardous from './components/Hazardous';
 import Next from './components/Next';
+import Recycling from './components/Recyling';
 
 export default async function Home() {
 
